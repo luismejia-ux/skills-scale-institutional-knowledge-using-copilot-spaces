@@ -34,11 +34,23 @@ Our projects follow a consistent lifecycle that ensures alignment, quality, and 
 
 ### Key Roles and Personas
 
+Our cross-functional teams include diverse roles working together to deliver value:
+
+#### Core Team Roles
 - **Project Manager (PM)**: Coordinates delivery, manages schedules, risks, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, write tests, participate in design and code reviews
 - **QA/Testing**: Validate quality, acceptance criteria, and end-to-end flows
-- **Stakeholders**: Provide inputs, approvals, and business context
+
+#### Extended Team Roles
+- **Release Manager**: Coordinates deployments and release processes
+- **UX Designer**: Designs user experiences and validates through research
+- **Data Analyst**: Tracks metrics, provides insights, and enables data-driven decisions
+- **Customer Success Lead**: Ensures customer satisfaction and represents customer voice
+- **Security Engineer**: Ensures security, compliance, and guides on best practices
+- **Stakeholder Advisor**: Provides strategic direction and removes organizational blockers
+
+See **[Roles and Personas](octoacme-roles-and-personas.md)** for detailed role descriptions and interaction patterns.
 
 ### Communication Strategies
 
@@ -74,17 +86,26 @@ Explore our detailed process guides to learn more about specific phases and prac
 
 ### Team Resources
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of team roles, responsibilities, and communication patterns
+- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of team roles (including Release Manager, UX Designer, Data Analyst, Customer Success Lead, Security Engineer, and Stakeholder Advisor), responsibilities, and communication patterns
+
+### Templates
+
+- **[Risk Register Template](template-risk-register.md)** — Structured template for tracking and managing project risks with assessment criteria
+- **[Onboarding Checklist Template](template-onboarding-checklist.md)** — Comprehensive 90-day onboarding plan for new team members
+- **[Role Responsibility Matrix (RACI) Template](template-role-responsibility-matrix.md)** — Define clear ownership and accountability for project activities and decisions
 
 ## Getting Started
 
 If you're new to OctoAcme or joining an active project:
 
-1. Start with the **[Project Management Overview](octoacme-project-management-overview.md)** to understand our core principles and approach
-2. Review **[Roles and Personas](octoacme-roles-and-personas.md)** to understand team structure and responsibilities
-3. For new projects, follow the **[Project Initiation](octoacme-project-initiation.md)** guide
-4. During active development, reference **[Execution and Tracking](octoacme-execution-and-tracking.md)** for day-to-day workflows
-5. Before releases, consult the **[Release and Deployment](octoacme-release-and-deployment.md)** guide
+1. **Understand the process**: Start with the **[Project Management Overview](octoacme-project-management-overview.md)** to understand our core principles and approach
+2. **Know your role**: Review **[Roles and Personas](octoacme-roles-and-personas.md)** to understand team structure, responsibilities, and how roles interact
+3. **Get onboarded**: Use the **[Onboarding Checklist Template](template-onboarding-checklist.md)** to ensure a smooth first 90 days
+4. **Start a project**: For new projects, follow the **[Project Initiation](octoacme-project-initiation.md)** guide
+5. **Execute effectively**: During active development, reference **[Execution and Tracking](octoacme-execution-and-tracking.md)** for day-to-day workflows, escalation paths, and knowledge centralization practices
+6. **Manage risks**: Use **[Risk Management & Communication](octoacme-risks-and-communication.md)** for stakeholder communication and escalation procedures
+7. **Release confidently**: Before releases, consult the **[Release and Deployment](octoacme-release-and-deployment.md)** guide
+8. **Use templates**: Leverage our **[templates](#templates)** for risk tracking, onboarding, and role clarity
 
 ## Using These Docs with Copilot Spaces
 
